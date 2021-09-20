@@ -20,7 +20,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           '3 & E 的小站'
+title:		           '3 & E 的小屋'
 description:	       '生活与成长'
 author:              '3 & E'
 
