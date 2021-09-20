@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Contact
+title: 联系我们
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+可以通过下面邮箱联系林哦。
+
+> epsilonlee.green@gmail.com
